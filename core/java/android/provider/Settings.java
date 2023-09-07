@@ -5969,6 +5969,12 @@ public final class Settings {
         public static final String STATUS_BAR_CLOCK_DATE_DISPLAY = "status_bar_clock_date_display";
 
         /**
+         * Settings Dashboard Style
+         * @hide
+         */
+        public static final String SETTINGS_DASHBOARD_STYLE = "settings_dashboard_style";
+        
+        /**
          * Sets the date string style
          * 0 - Regular style
          * 1 - Lowercase

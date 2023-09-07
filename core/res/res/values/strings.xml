@@ -38,6 +38,9 @@
          the placeholders. -->
     <string name="fileSizeSuffix"><xliff:g id="number" example="123">%1$s</xliff:g> <xliff:g id="unit" example="MB">%2$s</xliff:g></string>
 
+    <string name="settings_restart_title">Settings restart required</string>
+    <string name="settings_restart_message">For all changes to take effect, a Settings restart is required. Restart Settings now?</string>
+    
     <!-- Used in Contacts for a field that has no label and in Note Pad
          for a note with no name. -->
     <string name="untitled">&lt;Untitled&gt;</string>
