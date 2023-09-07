@@ -59,6 +59,16 @@ LOCAL_REQUIRED_MODULES := \
     FontTaurusSourceOverlay \
     FontTechnicalSourceOverlay \
     FontUbuntuRegularSourceOverlay \
+    FontHarmoniaSansOverlay \
+    FontTwCenMtOverlay \
+    FontJetBrainsOverlay \
+    FontMartianMonoOverlay \
+    FontOrionProOverlay \
+    FontSulphurPointOverlay \
+    FontIosevkaOverlay \
+    FontCallingCodeOverlay \
+    FontTTFirsNeueOverlay \
+    FontSpaceGroteskOverlay \
     IconPackCircularAndroidOverlay \
     IconPackCircularLauncherOverlay \
     IconPackCircularSettingsOverlay \
