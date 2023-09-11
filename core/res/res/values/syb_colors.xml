@@ -13,6 +13,14 @@
 -->
 <resources>
 
+    <color name="reticker_background_color">@android:color/system_neutral1_50</color>
+
+    <!-- Color for the Assistant invocation lights -->
+    <color name="edge_light_blue">#ff4185f4</color>
+    <color name="edge_light_green">#ff3aa853</color>
+    <color name="edge_light_red">#ffea4234</color>
+    <color name="edge_light_yellow">#fffbbc06</color>
+
     <!-- Parallel space badge colors -->
     <color name="parallel_badge_1">#025fee</color>
     <color name="parallel_badge_2">#ee9002</color>
@@ -23,5 +31,4 @@
     <color name="parallel_badge_7">#7200b6</color>
     <color name="parallel_badge_8">#006f72</color>
     <color name="parallel_badge_9">#eed315</color>
-
 </resources>

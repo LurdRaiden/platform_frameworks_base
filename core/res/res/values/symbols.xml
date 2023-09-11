@@ -22,6 +22,7 @@
        Can be referenced in java code as: com.android.internal.R.<type>.<name>
        and in layout xml as: "@*android:<type>/<name>"
   -->
+  <java-symbol type="id" name="qs_state_layer" />
   <java-symbol type="id" name="account_name" />
   <java-symbol type="id" name="account_row_icon" />
   <java-symbol type="id" name="account_row_text" />
@@ -251,7 +252,7 @@
   <java-symbol type="id" name="profile_tabhost" />
   <java-symbol type="id" name="tabs" />
   <java-symbol type="id" name="tabcontent" />
-
+  <java-symbol type="bool" name="config_smartChargingAvailable" />
   <java-symbol type="attr" name="actionModeShareDrawable" />
   <java-symbol type="attr" name="alertDialogCenterButtons" />
   <java-symbol type="attr" name="fragmentBreadCrumbsStyle" />
